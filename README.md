@@ -1,6 +1,8 @@
 # Concrete-strength-prediction
 
-![]("https://github.com/swarajgadgul/Concrete-strength-prediction/blob/main/concrete.jpg")
+<p align="center">
+  <img width="700" height="400" src="https://github.com/swarajgadgul/Concrete-strength-prediction/blob/main/concrete">
+</p>
 
 ## Problem Statement :
 
